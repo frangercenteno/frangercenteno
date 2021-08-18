@@ -1,5 +1,6 @@
 ### Franger Centeno 
-[![Twitter Badge](https://img.shields.io/badge/-Isha_Gupta-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Isha_1321)](https://twitter.com/frangerdev)  [![Linkedin Badge](https://img.shields.io/badge/-Isha_Gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/franger-centeno//)](https://www.linkedin.com/in/franger-centeno/)
+
+Hi there 👋 I'm Front End Developer at Crehana. I really like Javascript, and Blockchain technology.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 	
