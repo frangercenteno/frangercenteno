@@ -6,7 +6,7 @@ Hi there 👋 I'm Front End Developer at Crehana. I really like Javascript, and 
 	
 -  **Languages :** Javascript | Graphql | Typescript | SQL | CSS 💻
 -  **Frameworks and Libraries :** React | Next.js | Node.js | Express | Tailwind  💻
--  **Learning :** Python 🐍 | Solidity 🔥 | Blockchain 🪙
+-  **Learning :** Product Management 📗 | Rust 🦀 | Blockchain 🪙
 -  **Hobbies :** Movies 🎥 & Books 📚
 -  **Organization :** Crehana
 
