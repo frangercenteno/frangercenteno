@@ -6,14 +6,14 @@ Hi there 👋 I'm Front End Developer at Crehana. I really like Javascript, and 
 	
 -  **Languages :** Javascript | Graphql | Typescript | SQL | CSS 💻
 -  **Frameworks and Libraries :** React | Next.js | Node.js | Express | Tailwind  💻
--  **Learning :** Product Management 📗 | Rust 🦀 | Blockchain 🪙
+-  **Learning :** Product Management 📗 | Rust 🦀 | Python 🐍
 -  **Hobbies :** Movies 🎥 & Books 📚
--  **Organization :** Crehana
+-  **Organization :** Freelancer
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### My Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=frangercenteno" alt="Mr. Nexus">
+<img src="https://github-readme-stats.vercel.app/api?username=frangercenteno" alt="Franger Centeno">
 
 <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frangercenteno" alt="Top language used in my repos" />
 
