@@ -13,7 +13,6 @@ Hi there 👋 I'm Software Developer. I really like Javascript, and Blockchain t
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### My Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=frangercenteno" alt="Franger Centeno">
 
 <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frangercenteno" alt="Top language used in my repos" />
 
