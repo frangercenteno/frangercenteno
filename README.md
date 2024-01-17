@@ -1,12 +1,12 @@
 ### Franger Centeno 
 
-Hi there 👋 I'm Front End Developer at Crehana. I really like Javascript, and Blockchain technology.
+Hi there 👋 I'm Software Developer. I really like Javascript, and Blockchain technology.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 	
 -  **Languages :** Javascript | Graphql | Typescript | SQL | CSS 💻
 -  **Frameworks and Libraries :** React | Next.js | Node.js | Express | Tailwind  💻
--  **Learning :** Product Management 📗 | Rust 🦀 | Python 🐍
+-  **Learning :** Product Management 📗 | Go 🏃 | Python 🐍
 -  **Hobbies :** Movies 🎥 & Books 📚
 -  **Organization :** Freelancer
 
