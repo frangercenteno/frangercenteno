@@ -6,7 +6,7 @@ Hi there 👋 I'm Software Developer. I really like Javascript, and Blockchain t
 	
 -  **Languages :** Javascript | Graphql | Typescript | SQL | CSS 💻
 -  **Frameworks and Libraries :** React | Next.js | Node.js | Express | Tailwind  💻
--  **Learning :** Product Management 📗 | Go 🏃 | Python 🐍
+-  **Learning :** Software Architecture 🏛️ | Go 🏃
 -  **Hobbies :** Movies 🎥 & Books 📚
 -  **Organization :** Freelancer
 
