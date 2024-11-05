@@ -1,6 +1,6 @@
 ### Franger Centeno 
 
-Hi there 👋 I'm Software Developer. I really like Javascript, and Blockchain technology.
+Hi there 👋 I'm Software Developer.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 	
